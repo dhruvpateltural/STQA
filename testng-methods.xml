@@ -1,0 +1,11 @@
+<suite name="Package Suite" verbose="1">
+	<test name="Package Test">
+		<classes>
+			<class name="firstPackage.secondClass">
+				<methods>
+					<exclude name="secondClass"/>
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>

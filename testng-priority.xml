@@ -1,0 +1,7 @@
+<suite name="Prority Test Suite" verbose="1">
+	<test name="Prority Test">
+		<classes>
+			<class name="demo.PriorityTest"/>
+		</classes>
+	</test>
+</suite>

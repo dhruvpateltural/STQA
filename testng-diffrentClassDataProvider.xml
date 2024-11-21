@@ -1,0 +1,7 @@
+<suite name="Different Class Provider Suite" verbose="1">
+<test name="Different Class Test">
+		<classes>
+			<class name="demo.DifferentClassDataProvider2"/>
+		</classes>
+	</test>
+</suite>

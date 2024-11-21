@@ -1,0 +1,7 @@
+<suite name="Same Class Provider Suite" verbose="1">
+<test name="Same Class Test">
+		<classes>
+			<class name="demo.SameClassDataProvider"/>
+		</classes>
+	</test>
+</suite>

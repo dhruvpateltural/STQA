@@ -1,0 +1,9 @@
+<suite name="ReviewSuite" verbose="1">
+    <test name="ReviewTest">
+        <parameter name="marks1" value="7.0"/>
+        <parameter name="marks2" value="8.0"/>
+        <classes>
+            <class name="demo.ReviewTest"/>
+        </classes>
+    </test>
+</suite>

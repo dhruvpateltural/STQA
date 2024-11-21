@@ -1,0 +1,7 @@
+<suite name="Enable Test Suite" verbose="1">
+	<test name="enabled Test">
+		<classes>
+			<class name="demo.EnableTest"/>
+		</classes>
+	</test>
+</suite>
